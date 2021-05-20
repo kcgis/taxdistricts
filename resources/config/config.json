@@ -1,0 +1,1579 @@
+{
+  "pages": {
+    "page_0": {
+      "id": "page_0",
+      "mode": "FIT_WINDOW",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_0"
+      },
+      "isDefault": true,
+      "isVisible": true,
+      "label": "Tax District Viewer",
+      "header": true,
+      "footer": true,
+      "bodyBackgroundColor": ""
+    }
+  },
+  "layouts": {
+    "layout_0": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "widgetId": "widget_1",
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_1": {
+      "type": "FIXED",
+      "label": "First",
+      "order": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0.0%",
+            "right": "50.0%",
+            "top": "35.00px",
+            "bottom": "0%",
+            "width": "50.0%",
+            "height": "100%"
+          },
+          "widgetId": "widget_19",
+          "setting": {
+            "autoProps": {
+              "right": true,
+              "left": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        },
+        "1": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH"
+            },
+            "vCenter": false
+          },
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "35.00px",
+            "bottom": "0%",
+            "width": "50.00%",
+            "height": "100%"
+          },
+          "widgetId": "widget_20"
+        },
+        "2": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0.00%",
+            "right": "10.0%",
+            "top": "5.00px",
+            "bottom": "89.7%",
+            "width": "50.00%",
+            "height": "30.00px"
+          },
+          "widgetId": "widget_21",
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            }
+          }
+        },
+        "3": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "50.0%",
+            "right": "0.0%",
+            "top": "5.00px",
+            "bottom": "94.9%",
+            "width": "50.00%",
+            "height": "30.00px"
+          },
+          "widgetId": "widget_22",
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        }
+      }
+    },
+    "layout_2": {
+      "type": "FIXED",
+      "label": "Second",
+      "order": [
+        "1"
+      ],
+      "content": {
+        "1": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "right": false,
+              "left": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "widgetId": "widget_3",
+          "isPending": false
+        }
+      }
+    },
+    "layout_5": {
+      "type": "FIXED",
+      "label": "Map FixedLayout",
+      "content": {},
+      "order": []
+    },
+    "layout_6": {
+      "type": "FIXED",
+      "order": [
+        "0",
+        "1",
+        "2"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "72.7%",
+            "right": "0.0%",
+            "top": "50%",
+            "bottom": "6.7%",
+            "width": "350.00px",
+            "height": "86.7%"
+          },
+          "widgetId": "widget_6",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false,
+              "height": "AUTO"
+            },
+            "vCenter": true,
+            "hCenter": false,
+            "lockLayout": false
+          },
+          "isPending": false
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "100.00px",
+            "right": "71.9%",
+            "top": "50%",
+            "bottom": "0.0%",
+            "width": "28.1%",
+            "height": "100.0%"
+          },
+          "widgetId": "widget_9",
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true,
+              "height": "AUTO",
+              "width": "AUTO"
+            },
+            "vCenter": true
+          }
+        },
+        "2": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "15.00px",
+            "right": "76.6%",
+            "top": "50%",
+            "bottom": "0.0%",
+            "width": "65.00px",
+            "height": "65.00px"
+          },
+          "widgetId": "widget_10",
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true,
+              "width": "CUSTOM",
+              "height": "CUSTOM"
+            },
+            "heightMode": "ratio",
+            "aspectRatio": 1,
+            "vCenter": true
+          }
+        }
+      }
+    },
+    "layout_7": {
+      "type": "FIXED",
+      "order": [
+        "0",
+        "1"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "71.9%",
+            "right": "50.00px",
+            "top": "50%",
+            "bottom": "0%",
+            "width": "28.1%",
+            "height": "100%"
+          },
+          "widgetId": "widget_14",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true,
+              "height": "AUTO",
+              "width": "AUTO"
+            },
+            "vCenter": true
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "76.6%",
+            "right": "10.00px",
+            "top": "50%",
+            "bottom": "0.00px",
+            "width": "30.00px",
+            "height": "30.00px"
+          },
+          "widgetId": "widget_15",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            },
+            "heightMode": "ratio",
+            "aspectRatio": 1,
+            "vCenter": true
+          }
+        }
+      }
+    },
+    "layout_8": {
+      "label": "Controller layout",
+      "order": [
+        "2",
+        "3"
+      ],
+      "content": {
+        "2": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "NaNpx",
+            "right": "NaNpx",
+            "top": "NaNpx",
+            "bottom": "NaNpx",
+            "width": "360px",
+            "height": "70px"
+          },
+          "widgetId": "widget_17"
+        },
+        "3": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "NaNpx",
+            "right": "NaNpx",
+            "top": "NaNpx",
+            "bottom": "NaNpx",
+            "width": "350px",
+            "height": "400px"
+          },
+          "widgetId": "widget_18"
+        }
+      }
+    },
+    "layout_9": {
+      "label": "Open widget layout",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_18",
+          "bbox": {
+            "left": 0,
+            "top": 0,
+            "bottom": 0,
+            "right": 0
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_10": {
+      "type": "FIXED",
+      "content": {
+        "1": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "bottom": true,
+              "top": false,
+              "width": "AUTO"
+            },
+            "vCenter": false,
+            "hCenter": false,
+            "lockParent": false
+          },
+          "bbox": {
+            "left": "20.00px",
+            "top": "20.00px",
+            "width": 120,
+            "height": 30,
+            "right": 337,
+            "bottom": "18.7094%"
+          },
+          "widgetId": "widget_12",
+          "isPending": false
+        },
+        "2": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "bottom": true,
+              "top": false,
+              "width": "STRETCH",
+              "height": "AUTO"
+            },
+            "vCenter": false,
+            "hCenter": false,
+            "order": 0,
+            "lockParent": false,
+            "lockLayout": false
+          },
+          "bbox": {
+            "left": 20,
+            "top": "60.00px",
+            "width": "91.6634%",
+            "height": "15.00%",
+            "right": 20,
+            "bottom": 0
+          },
+          "widgetId": "widget_13",
+          "isPending": false
+        }
+      },
+      "order": [
+        "1",
+        "2"
+      ],
+      "setting": {
+        "lockDescendants": true
+      }
+    }
+  },
+  "exbVersion": "1.4.0",
+  "mainSizeMode": "LARGE",
+  "theme": "themes/shared-theme/",
+  "forBuilderAttributes": {
+    "lockLayout": false
+  },
+  "template": "blankfullscreen",
+  "attributes": {
+    "portalUrl": "https://maps.co.kendall.il.us/portal"
+  },
+  "customTheme": {
+    "sharedTheme": true,
+    "colors": {
+      "primary": "#263a56"
+    },
+    "header": {
+      "bg": "#0b2931",
+      "color": "#ffffff"
+    },
+    "body": {
+      "link": "#d56740"
+    },
+    "components": {
+      "button": {
+        "variants": {
+          "primary": {
+            "default": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      }
+    },
+    "link": {
+      "color": "#d56740",
+      "hover": {
+        "color": "#d56740"
+      }
+    }
+  },
+  "widgets": {
+    "widget_1": {
+      "uri": "widgets/layout/sidebar/",
+      "version": "1.4.0",
+      "label": "Sidebar 1",
+      "config": {
+        "direction": "HORIZONTAL",
+        "collapseSide": "FIRST",
+        "overlay": false,
+        "size": "400px",
+        "divider": {
+          "visible": true,
+          "lineStyle": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          }
+        },
+        "resizable": true,
+        "toggleBtn": {
+          "visible": true,
+          "icon": "LEFT",
+          "offsetX": 15,
+          "offsetY": 0,
+          "position": "CENTER",
+          "iconSize": 14,
+          "width": 15,
+          "height": 60,
+          "color": {
+            "normal": {
+              "icon": {
+                "useTheme": false,
+                "color": "#FFFFFF"
+              },
+              "bg": {
+                "useTheme": true,
+                "color": "var(--primary)"
+              }
+            },
+            "hover": {
+              "bg": {
+                "useTheme": true,
+                "color": "var(--primary-700)"
+              }
+            }
+          },
+          "expandStyle": {
+            "style": {
+              "borderRadius": "0 92px 92px 0"
+            }
+          },
+          "collapseStyle": {
+            "style": {
+              "borderRadius": "0 92px 92px 0"
+            }
+          }
+        },
+        "defaultState": 1
+      },
+      "id": "widget_1",
+      "layouts": {
+        "FIRST": {
+          "LARGE": "layout_1"
+        },
+        "SECOND": {
+          "LARGE": "layout_2"
+        }
+      }
+    },
+    "widget_3": {
+      "uri": "widgets/arcgis/arcgis-map/",
+      "version": "1.4.0",
+      "label": "Tax District Map",
+      "config": {
+        "toolConifg": {
+          "canZoom": true,
+          "canHome": true,
+          "canSearch": true,
+          "canNavigation": true
+        },
+        "isUseCustomMapState": false,
+        "layoutIndex": 1
+      },
+      "id": "widget_3",
+      "layouts": {
+        "MapFixedLayout": {
+          "LARGE": "layout_5"
+        }
+      },
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_1",
+          "mainDataSourceId": "dataSource_1"
+        }
+      ],
+      "style": {
+        "borderRadius": {
+          "number": [
+            0
+          ],
+          "unit": "%"
+        }
+      }
+    },
+    "widget_6": {
+      "uri": "widgets/common/controller/",
+      "version": "1.4.0",
+      "label": "Widget Controller 1",
+      "config": {
+        "behavior": {
+          "onlyOpenOne": true,
+          "openStarts": [],
+          "displayType": "STACK",
+          "vertical": false,
+          "size": {
+            "widget_7": {
+              "width": 244,
+              "height": 651
+            },
+            "widget_8": {
+              "width": 299,
+              "height": 688
+            },
+            "widget_11": {
+              "width": 305,
+              "height": 455
+            },
+            "widget_17": {
+              "width": 298,
+              "height": 420
+            },
+            "widget_18": {
+              "width": 490,
+              "height": 586
+            }
+          }
+        },
+        "appearance": {
+          "space": 0,
+          "advanced": false,
+          "card": {
+            "showLabel": true,
+            "labelGrowth": 20,
+            "avatar": {
+              "type": "primary",
+              "size": "default",
+              "shape": "rectangle"
+            }
+          }
+        }
+      },
+      "id": "widget_6",
+      "layouts": {
+        "controller": {
+          "LARGE": "layout_8"
+        },
+        "_openwidget": {
+          "LARGE": "layout_9"
+        }
+      }
+    },
+    "widget_9": {
+      "uri": "widgets/common/text/",
+      "version": "1.4.0",
+      "label": "Title",
+      "config": {
+        "text": "<p><span style=\"font-size: 20px;\">Kendall County Tax District Browser</span></p>",
+        "placeholder": "Double click to edit text",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_9"
+    },
+    "widget_10": {
+      "uri": "widgets/common/image/",
+      "version": "1.4.0",
+      "label": "Image 1",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "${appResourceUrl}/images/widget_10/1621452379896.png",
+            "originalUrl": "${appResourceUrl}/images/widget_10/1621452379896.png",
+            "fileName": "1621452379896.png",
+            "originalName": "1607008968421.png",
+            "imgSourceType": "BY_UPLOAD",
+            "fileFormat": "image/png",
+            "originalId": "1621452379896",
+            "isUseCompress": false
+          },
+          "imgSourceType": "",
+          "srcExpression": null
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_10"
+    },
+    "widget_12": {
+      "uri": "widgets/common/text/",
+      "version": "1.4.0",
+      "label": "Text 1",
+      "config": {
+        "text": "<p><strong style=\"color: var(--dark-800); font-size: 14px;\">﻿Tax District Browser Guide</strong></p>",
+        "placeholder": "<p><strong style=\"font-size: 14px; color: var(--dark-800);\">Title</strong></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_12"
+    },
+    "widget_13": {
+      "uri": "widgets/common/text/",
+      "version": "1.4.0",
+      "label": "Guide Text",
+      "config": {
+        "text": "<p><span style=\"color: var(--dark-800);\">﻿This map allows you to view the current tax districts for Kendall County.</span></p><p><br></p><p><span style=\"color: var(--dark-800);\">In the panel to the left, you will see the </span><strong style=\"color: var(--dark-800);\">Layer List </strong><span style=\"color: var(--dark-800);\">and </span><strong style=\"color: var(--dark-800);\">Legend</strong></p><ul><li><span style=\"color: var(--dark-800);\">Use the </span><strong style=\"color: var(--dark-800);\">Legend</strong><span style=\"color: var(--dark-800);\"> to see the symbol categories for currently visible layers.</span></li><li><span style=\"color: var(--dark-800);\">Use the </span><strong style=\"color: var(--dark-800);\">Layer List</strong><span style=\"color: var(--dark-800);\"> tool to turn other layers on and off. You can, for example, turn on a view of the tax codes colored by Library District.</span></li></ul><p><br></p><p><span style=\"color: var(--dark-800);\">In the upper-right, you can also find a </span><strong style=\"color: var(--dark-800);\">Filter</strong><span style=\"color: var(--dark-800);\"> tool, that allows you to filter the </span><em style=\"color: var(--dark-800);\">Tax District</em><span style=\"color: var(--dark-800);\"> features based on specific taxing units.</span></p><p><br></p><p><span style=\"color: var(--dark-800);\">Finally, note that the data presented in this map reflects what is currently entered in Devnet, and is not maintained by the GIS department.</span></p><p><br></p><p><span style=\"color: var(--dark-800);\">You can view this guide again any time by clicking the </span><strong style=\"color: var(--dark-800);\">Guide</strong><span style=\"color: var(--dark-800);\"> icon.</span></p>",
+        "placeholder": "<p><span style=\"color: var(--dark-800);\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</span></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_13"
+    },
+    "widget_14": {
+      "uri": "widgets/common/text/",
+      "version": "1.4.0",
+      "label": "Text 2",
+      "config": {
+        "text": "<p><span style=\"color: var(--light);\">Developed by Kendall County GIS</span></p>",
+        "placeholder": "Double click to edit text",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_14"
+    },
+    "widget_15": {
+      "uri": "widgets/common/image/",
+      "version": "1.4.0",
+      "label": "KCGIS Logo",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "${appResourceUrl}/images/widget_15/1621464461229.png",
+            "originalUrl": "${appResourceUrl}/images/widget_15/1621464461229.png",
+            "fileName": "1621464461229.png",
+            "originalName": "KCO_logo_mono_noshield.png",
+            "imgSourceType": "BY_UPLOAD",
+            "fileFormat": "image/png",
+            "originalId": "1621464461229",
+            "isUseCompress": false,
+            "cropParam": {
+              "svgViewBox": "0 0 28 28",
+              "svgPath": "M28 14c0 7.732-6.268 14-14 14S0 21.732 0 14 6.268 0 14 0s14 6.268 14 14z",
+              "cropShape": "circle"
+            }
+          },
+          "imgSourceType": "",
+          "srcExpression": null
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_15",
+      "style": {
+        "borderRadius": {
+          "number": [
+            100
+          ],
+          "unit": "%"
+        },
+        "background": {
+          "color": "var(--light)",
+          "fillType": "fit",
+          "image": {
+            "url": ""
+          }
+        }
+      }
+    },
+    "widget_17": {
+      "uri": "widgets/common/text/",
+      "version": "1.4.0",
+      "icon": {
+        "svg": "${appResourceUrl}/images/icon_picker_in_setting/1621465800727.png",
+        "properties": {
+          "filename": "1621465800727.png",
+          "originalName": "question_mark.png",
+          "path": "${appResourceUrl}/images/icon_picker_in_setting/1621465800727.png",
+          "inlineSvg": false
+        }
+      },
+      "label": "Guide",
+      "config": {
+        "text": "<p><span style=\"color: var(--dark-800);\">﻿This map allows you to view the current tax districts for Kendall County.</span></p><p><br></p><p><span style=\"color: var(--dark-800);\">In the panel to the left, you will see the </span><strong style=\"color: var(--dark-800);\">Layer List </strong><span style=\"color: var(--dark-800);\">and </span><strong style=\"color: var(--dark-800);\">Legend</strong></p><ul><li><span style=\"color: var(--dark-800);\">Use the </span><strong style=\"color: var(--dark-800);\">Legend</strong><span style=\"color: var(--dark-800);\"> to see the symbol categories for currently visible layers.</span></li><li><span style=\"color: var(--dark-800);\">Use the </span><strong style=\"color: var(--dark-800);\">Layer List</strong><span style=\"color: var(--dark-800);\"> tool to turn other layers on and off. You can, for example, turn on a view of the tax codes colored by Library District.</span></li></ul><p><br></p><p><span style=\"color: var(--dark-800);\">In the upper-right, you can also find a </span><strong style=\"color: var(--dark-800);\">Filter</strong><span style=\"color: var(--dark-800);\"> tool, that allows you to filter the </span><em style=\"color: var(--dark-800);\">Tax District</em><span style=\"color: var(--dark-800);\"> features based on specific taxing units.</span></p><p><br></p><p><span style=\"color: var(--dark-800);\">Finally, note that the data presented in this map reflects what is currently entered in Devnet, and is not maintained by the GIS department.</span></p>",
+        "placeholder": "Double click to edit text",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_17"
+    },
+    "widget_18": {
+      "uri": "widgets/common/filter/",
+      "version": "1.4.0",
+      "label": "District Filter",
+      "config": {
+        "groupByLayer": false,
+        "logicalOperator": "AND",
+        "custom": false,
+        "resetAll": false,
+        "turnOffAll": false,
+        "arrangeType": "BLOCK",
+        "triggerType": "TOGGLE",
+        "omitInternalStyle": true,
+        "filterItems": [
+          {
+            "icon": null,
+            "name": "Grade School",
+            "useDataSource": {
+              "dataSourceId": "dataSource_1-Tax_Districts_1278",
+              "mainDataSourceId": "dataSource_1-Tax_Districts_1278",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "grade_school"
+              ]
+            },
+            "sqlExprObj": {
+              "logicalOperator": "AND",
+              "parts": [
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "grade_school",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "UNIQUE_PILL_WRAP_SELECTOR",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": "Grade School",
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "NONE"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                }
+              ],
+              "sql": "",
+              "displaySQL": "(Grade School = ?)"
+            },
+            "autoApplyWhenWidgetOpen": true,
+            "collapseFilterExprs": false
+          },
+          {
+            "icon": null,
+            "name": "High School",
+            "useDataSource": {
+              "dataSourceId": "dataSource_1-Tax_Districts_1278",
+              "mainDataSourceId": "dataSource_1-Tax_Districts_1278",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "high_school"
+              ]
+            },
+            "sqlExprObj": {
+              "logicalOperator": "AND",
+              "parts": [
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "high_school",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "UNIQUE_PILL_WRAP_SELECTOR",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": "High School",
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "NONE"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                }
+              ],
+              "sql": "",
+              "displaySQL": "(High School = ?)"
+            },
+            "autoApplyWhenWidgetOpen": true,
+            "collapseFilterExprs": false
+          },
+          {
+            "icon": null,
+            "name": "Unit School",
+            "useDataSource": {
+              "dataSourceId": "dataSource_1-Tax_Districts_1278",
+              "mainDataSourceId": "dataSource_1-Tax_Districts_1278",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "unit_school"
+              ]
+            },
+            "sqlExprObj": {
+              "logicalOperator": "AND",
+              "parts": [
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "unit_school",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "UNIQUE_PILL_WRAP_SELECTOR",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": "Unit School",
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "NONE"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                }
+              ],
+              "sql": "",
+              "displaySQL": "(Unit School = ?)"
+            },
+            "autoApplyWhenWidgetOpen": true,
+            "collapseFilterExprs": false
+          },
+          {
+            "icon": null,
+            "name": "Community College",
+            "useDataSource": {
+              "dataSourceId": "dataSource_1-Tax_Districts_1278",
+              "mainDataSourceId": "dataSource_1-Tax_Districts_1278",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "community_college"
+              ]
+            },
+            "sqlExprObj": {
+              "logicalOperator": "AND",
+              "parts": [
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "community_college",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "UNIQUE_PILL_WRAP_SELECTOR",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": "Community College",
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "NONE"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                }
+              ],
+              "sql": "",
+              "displaySQL": "(Community College = ?)"
+            },
+            "autoApplyWhenWidgetOpen": true,
+            "collapseFilterExprs": false
+          },
+          {
+            "icon": null,
+            "name": "Library",
+            "useDataSource": {
+              "dataSourceId": "dataSource_1-Tax_Districts_1278",
+              "mainDataSourceId": "dataSource_1-Tax_Districts_1278",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "library"
+              ]
+            },
+            "sqlExprObj": {
+              "logicalOperator": "AND",
+              "parts": [
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "library",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "UNIQUE_PILL_WRAP_SELECTOR",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": "Library",
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "NONE"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                }
+              ],
+              "sql": "",
+              "displaySQL": "(Library = ?)"
+            },
+            "autoApplyWhenWidgetOpen": true,
+            "collapseFilterExprs": false
+          },
+          {
+            "icon": null,
+            "name": "Park District",
+            "useDataSource": {
+              "dataSourceId": "dataSource_1-Tax_Districts_1278",
+              "mainDataSourceId": "dataSource_1-Tax_Districts_1278",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "park"
+              ]
+            },
+            "sqlExprObj": {
+              "logicalOperator": "AND",
+              "parts": [
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "park",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "UNIQUE_PILL_WRAP_SELECTOR",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": "Park District",
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "NONE"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                }
+              ],
+              "sql": "",
+              "displaySQL": "(Park District = ?)"
+            },
+            "autoApplyWhenWidgetOpen": true,
+            "collapseFilterExprs": false
+          },
+          {
+            "icon": null,
+            "name": "Fire Protection",
+            "useDataSource": {
+              "dataSourceId": "dataSource_1-Tax_Districts_1278",
+              "mainDataSourceId": "dataSource_1-Tax_Districts_1278",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "fire"
+              ]
+            },
+            "sqlExprObj": {
+              "logicalOperator": "AND",
+              "parts": [
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "fire",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "UNIQUE_PILL_WRAP_SELECTOR",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": "Fire Protection",
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "NONE"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                }
+              ],
+              "sql": "",
+              "displaySQL": "(Fire = ?)"
+            },
+            "autoApplyWhenWidgetOpen": true,
+            "collapseFilterExprs": false
+          },
+          {
+            "icon": null,
+            "name": "Drainage",
+            "useDataSource": {
+              "dataSourceId": "dataSource_1-Tax_Districts_1278",
+              "mainDataSourceId": "dataSource_1-Tax_Districts_1278",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "drainage"
+              ]
+            },
+            "sqlExprObj": {
+              "logicalOperator": "AND",
+              "parts": [
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "drainage",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "UNIQUE_PILL_WRAP_SELECTOR",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": "Drainage",
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "NONE"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                }
+              ],
+              "sql": "",
+              "displaySQL": "(Drainage = ?)"
+            },
+            "autoApplyWhenWidgetOpen": true,
+            "collapseFilterExprs": false
+          },
+          {
+            "icon": null,
+            "name": "Sanitary",
+            "useDataSource": {
+              "dataSourceId": "dataSource_1-Tax_Districts_1278",
+              "mainDataSourceId": "dataSource_1-Tax_Districts_1278",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "sanitary"
+              ]
+            },
+            "sqlExprObj": {
+              "logicalOperator": "AND",
+              "parts": [
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "sanitary",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "UNIQUE_PILL_WRAP_SELECTOR",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": "Sanitary",
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "NONE"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                }
+              ],
+              "sql": "",
+              "displaySQL": "(Sanitary = ?)"
+            },
+            "autoApplyWhenWidgetOpen": true,
+            "collapseFilterExprs": false
+          },
+          {
+            "icon": null,
+            "name": "Road",
+            "useDataSource": {
+              "dataSourceId": "dataSource_1-Tax_Districts_1278",
+              "mainDataSourceId": "dataSource_1-Tax_Districts_1278",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "road"
+              ]
+            },
+            "sqlExprObj": {
+              "logicalOperator": "AND",
+              "parts": [
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "road",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "UNIQUE_PILL_WRAP_SELECTOR",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": "Road",
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "NONE"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                }
+              ],
+              "sql": "",
+              "displaySQL": "(Road = ?)"
+            },
+            "autoApplyWhenWidgetOpen": true,
+            "collapseFilterExprs": false
+          },
+          {
+            "icon": null,
+            "name": "Municipality",
+            "useDataSource": {
+              "dataSourceId": "dataSource_1-Tax_Districts_1278",
+              "mainDataSourceId": "dataSource_1-Tax_Districts_1278",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "municipality"
+              ]
+            },
+            "sqlExprObj": {
+              "logicalOperator": "AND",
+              "parts": [
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "municipality",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "UNIQUE_PILL_WRAP_SELECTOR",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": "Municipality",
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "NONE"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                }
+              ],
+              "sql": "",
+              "displaySQL": "(Municipality = ?)"
+            },
+            "autoApplyWhenWidgetOpen": true,
+            "collapseFilterExprs": false
+          },
+          {
+            "icon": null,
+            "name": "Township",
+            "useDataSource": {
+              "dataSourceId": "dataSource_1-Tax_Districts_1278",
+              "mainDataSourceId": "dataSource_1-Tax_Districts_1278",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "township"
+              ]
+            },
+            "sqlExprObj": {
+              "logicalOperator": "AND",
+              "parts": [
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "township",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "UNIQUE_PILL_WRAP_SELECTOR",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": "Township",
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "NONE"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                }
+              ],
+              "sql": "",
+              "displaySQL": "(Township = ?)"
+            },
+            "autoApplyWhenWidgetOpen": true,
+            "collapseFilterExprs": false
+          },
+          {
+            "icon": null,
+            "name": "Multi-Township",
+            "useDataSource": {
+              "dataSourceId": "dataSource_1-Tax_Districts_1278",
+              "mainDataSourceId": "dataSource_1-Tax_Districts_1278",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "multi_township"
+              ]
+            },
+            "sqlExprObj": {
+              "logicalOperator": "AND",
+              "parts": [
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "multi_township",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "UNIQUE_PILL_WRAP_SELECTOR",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": "Multi-Township",
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "NONE"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                }
+              ],
+              "sql": "",
+              "displaySQL": "(Multi-Township = ?)"
+            },
+            "autoApplyWhenWidgetOpen": true,
+            "collapseFilterExprs": false
+          },
+          {
+            "icon": null,
+            "name": "TIF",
+            "useDataSource": {
+              "dataSourceId": "dataSource_1-Tax_Districts_1278",
+              "mainDataSourceId": "dataSource_1-Tax_Districts_1278",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "tif"
+              ]
+            },
+            "sqlExprObj": {
+              "logicalOperator": "AND",
+              "parts": [
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "tif",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "UNIQUE_PILL_WRAP_SELECTOR",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": "TIF",
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "NONE"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                }
+              ],
+              "sql": "",
+              "displaySQL": "(TIF = ?)"
+            },
+            "autoApplyWhenWidgetOpen": true,
+            "collapseFilterExprs": false
+          },
+          {
+            "icon": null,
+            "name": "SSA",
+            "useDataSource": {
+              "dataSourceId": "dataSource_1-Tax_Districts_1278",
+              "mainDataSourceId": "dataSource_1-Tax_Districts_1278",
+              "rootDataSourceId": "dataSource_1",
+              "fields": [
+                "ssa"
+              ]
+            },
+            "sqlExprObj": {
+              "logicalOperator": "AND",
+              "parts": [
+                {
+                  "type": "SINGLE",
+                  "jimuFieldName": "ssa",
+                  "operator": "STRING_OPERATOR_IS",
+                  "valueOptions": {
+                    "isValid": true,
+                    "sourceType": "UNIQUE",
+                    "inputEditor": "UNIQUE_PILL_WRAP_SELECTOR",
+                    "value": null
+                  },
+                  "displayType": "USE_ASK_FOR_VALUE",
+                  "askForValueOptions": {
+                    "label": "SSA",
+                    "display": "BLOCK",
+                    "hint": "",
+                    "cascade": "NONE"
+                  },
+                  "displayLabel": null,
+                  "caseSensitive": false
+                }
+              ],
+              "sql": "",
+              "displaySQL": "(SSA = ?)"
+            },
+            "autoApplyWhenWidgetOpen": true,
+            "collapseFilterExprs": false
+          }
+        ]
+      },
+      "id": "widget_18",
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_1-Tax_Districts_1278",
+          "mainDataSourceId": "dataSource_1-Tax_Districts_1278",
+          "rootDataSourceId": "dataSource_1",
+          "fields": [
+            "park",
+            "township"
+          ]
+        }
+      ]
+    },
+    "widget_19": {
+      "uri": "widgets/arcgis/map-layers/",
+      "version": "1.4.0",
+      "label": "Layers",
+      "config": {
+        "useMapWidget": true,
+        "setVisibility": true
+      },
+      "id": "widget_19",
+      "useMapWidgetIds": [
+        "widget_3"
+      ]
+    },
+    "widget_20": {
+      "uri": "widgets/arcgis/legend/",
+      "version": "1.4.0",
+      "label": "Legend",
+      "config": {},
+      "id": "widget_20",
+      "useMapWidgetIds": [
+        "widget_3"
+      ]
+    },
+    "widget_21": {
+      "uri": "widgets/common/text/",
+      "version": "1.4.0",
+      "label": "Layer List Heading",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><span style=\"letter-spacing: 2px; font-size: 16px;\">Layer List</span></p>",
+        "placeholder": "Double click to edit text",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_21"
+    },
+    "widget_22": {
+      "uri": "widgets/common/text/",
+      "version": "1.4.0",
+      "label": "Legend Heading",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><span style=\"letter-spacing: 2px; font-size: 16px;\">Legend</span></p>",
+        "placeholder": "Double click to edit text",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_22"
+    }
+  },
+  "widgetsManifest": {},
+  "views": {},
+  "sections": {},
+  "dialogs": {
+    "dialog_1": {
+      "id": "dialog_1",
+      "mode": "FIXED",
+      "sizeMode": {
+        "LARGE": {
+          "position": "CENTER",
+          "width": "480px",
+          "height": "420px"
+        }
+      },
+      "interactionType": "BUTTON_INLINE",
+      "interactionStyles": {
+        "text": "",
+        "textSize": "13px",
+        "buttonText": "",
+        "buttonTextSize": "16px"
+      },
+      "confirmBeforeClose": false,
+      "alwaysShowConfirmation": true,
+      "dialogBackground": {
+        "color": "var(--light)",
+        "fillType": "fit",
+        "image": {
+          "url": ""
+        }
+      },
+      "overlayColor": "var(--dark-900)",
+      "layout": {
+        "LARGE": "layout_10"
+      },
+      "index": 0,
+      "isSplash": true,
+      "label": "Splash",
+      "closeWhenClickOverlay": false,
+      "effect": {
+        "type": "FLOAT_IN",
+        "option": {
+          "direction": null
+        }
+      }
+    }
+  },
+  "dataSources": {
+    "dataSource_1": {
+      "type": "WEB_MAP",
+      "itemId": "8ff9608b9e904dfcbd1a2b86eb7a78b4",
+      "id": "dataSource_1",
+      "portalUrl": "https://maps.co.kendall.il.us/portal"
+    }
+  },
+  "messageConfigs": {},
+  "pageStructure": [
+    {
+      "page_0": []
+    }
+  ],
+  "header": {
+    "layout": {
+      "LARGE": "layout_6"
+    },
+    "height": {
+      "LARGE": "75px"
+    }
+  },
+  "footer": {
+    "layout": {
+      "LARGE": "layout_7"
+    },
+    "height": {
+      "LARGE": "40px"
+    },
+    "backgroundColor": "#0b2931"
+  },
+  "timestamp": 1621538942313
+}
